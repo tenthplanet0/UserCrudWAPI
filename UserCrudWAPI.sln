@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserCrudWAPI", "UserCrudWAPI\UserCrudWAPI.csproj", "{63617DD6-A9EE-4E15-9214-C991114F4711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserCrudWAPI.Tests", "UserCrudWAPI.Tests\UserCrudWAPI.Tests.csproj", "{6E39010D-2FBD-40D1-AEB6-AA4451555C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63617DD6-A9EE-4E15-9214-C991114F4711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63617DD6-A9EE-4E15-9214-C991114F4711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63617DD6-A9EE-4E15-9214-C991114F4711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63617DD6-A9EE-4E15-9214-C991114F4711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E39010D-2FBD-40D1-AEB6-AA4451555C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E39010D-2FBD-40D1-AEB6-AA4451555C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E39010D-2FBD-40D1-AEB6-AA4451555C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E39010D-2FBD-40D1-AEB6-AA4451555C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {898535BC-7FF7-4872-AF50-2DAB4251CB1E}
+	EndGlobalSection
+EndGlobal
